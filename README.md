@@ -1,6 +1,6 @@
 # Hey you, you're finally awake 🖖
 
-You were trying to find an aspiring young developer? Well, he's right in front of you. I'm Michael Mykhaylov, Full-Stack developer and aspiring Data Scientist from <img src="https://image.flaticon.com/icons/svg/197/197572.svg" width="13"/> Ukraine currently living in <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> USA.
+You were trying to find an aspiring young developer? Walked right into my GitHub profile. I'm Michael Mykhaylov, Full-Stack developer and aspiring Data Scientist from <img src="https://image.flaticon.com/icons/svg/197/197572.svg" width="13"/> Ukraine currently living in <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> USA.
 
 Computer Science Major at [Arizona State University](https://www.asy.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
 
