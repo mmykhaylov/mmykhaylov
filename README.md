@@ -19,7 +19,7 @@ Computer Science Major at [Arizona State University](https://www.asy.edu). Tech 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=react&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white" /></p>
