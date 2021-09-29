@@ -5,6 +5,8 @@ You were trying to find an aspiring young developer? Walked right into my GitHub
 Computer Science Major at [Arizona State University](https://www.asy.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
 
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=mmykhaylov&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmykhaylov&layout=compact&hide_border=true)
+
 
 ## 💻 I love working with...
 
