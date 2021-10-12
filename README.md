@@ -20,6 +20,7 @@ Computer Science Major at [Arizona State University](https://www.asy.edu). Tech 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
@@ -28,14 +29,16 @@ Computer Science Major at [Arizona State University](https://www.asy.edu). Tech 
 
 ## ... 🔭 still learn...
 
-<p><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /></p>
+<p><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" /></p>
 
 ## ... 🧪 and would love to learn...
 
 <p><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" /></p>
+<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" />
+<img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-6933FF?logo=cockroachlabs&logoColor=white" /></p>
 
 ### 📬 Let's get to know each other
 
