@@ -1,6 +1,6 @@
 # Hey you, you're finally awake 🖖
 
-You were trying to find an aspiring young developer? Walked right into my GitHub profile. Hi, I'm Michael Mykhaylov, Full-Stack developer and aspiring Software Engineer from <img src="./src/ukraine.png" width="13"/> Ukraine currently living in <img src="./src/united-states.png" width="13"/> USA.
+You were trying to find an aspiring young developer? Walked right into my GitHub profile. Hi, I'm Michael Mykhaylov, Full-Stack developer and aspiring Data Scientist from <img src="./src/ukraine.png" width="13"/> Ukraine currently living in <img src="./src/united-states.png" width="13"/> USA.
 
 Computer Science Major at [Arizona State University](https://www.asu.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
 
