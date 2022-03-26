@@ -4,7 +4,7 @@ You were trying to find an aspiring young developer? Walked right into my GitHub
 
 Computer Science Major at [Arizona State University](https://www.asu.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmykhaylov&hide_border=true&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmykhaylov&hide=jupyter%20notebook&hide_border=true&langs_count=6&layout=compact)
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=mmykhaylov&show_icons=true&hide_border=true)
 
 ## 💻 My web projects usually work on...
@@ -24,7 +24,7 @@ Computer Science Major at [Arizona State University](https://www.asu.edu). Tech 
 <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=amazonaws&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
 </p>
 
 ## and 🧪 data science projects on
@@ -32,6 +32,7 @@ Computer Science Major at [Arizona State University](https://www.asu.edu). Tech 
 <p>
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" />
+<img alt="Google Cloud AI" src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white" />
