@@ -22,7 +22,7 @@ Computer Science Major at [Arizona State University](https://www.asu.edu). Tech 
 <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
 <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=amazonaws&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
 </p>
